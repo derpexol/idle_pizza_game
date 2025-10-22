@@ -1,0 +1,1 @@
+{"total_pizzas": 2448.6586333323303, "building_info": {"italian_chef": {"cost": 4, "production": 1, "cycle_time": 10, "quantity": 31}, "frozen_pizza": {"cost": 20, "production": 5, "cycle_time": 15, "quantity": 11}, "pizza_river": {"cost": 100, "production": 20, "cycle_time": 30, "quantity": 1}}}
